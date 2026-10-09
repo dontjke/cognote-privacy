@@ -1,5 +1,6 @@
 ---
-title: Cognote 隐私政策lang: zh-CN
+title: Cognote 隐私政策
+lang: zh-CN
 ---
 
 # Cognote 隐私政策
