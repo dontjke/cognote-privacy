@@ -1,6 +1,11 @@
+---
+title: Политика конфиденциальности Cognote
+lang: ru
+---
+
 # Политика конфиденциальности Cognote
 
-Эта же политика на других языках: [中文](https://dontjke.github.io/cognote-privacy/zh/) · [English](https://dontjke.github.io/cognote-privacy/en/) · [Русский](https://dontjke.github.io/cognote-privacy/ru/)
+[中文](../zh/) · [English](../en/) · **Русский**
 
 - **Действует с:** 9 октября 2026 г. (версия приложения 3.4.0)
 - **Разработчик:** Степанов Роман Юрьевич
